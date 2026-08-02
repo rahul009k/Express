@@ -2,7 +2,7 @@
   "name": "node-learning",
   "version": "1.0.0",
   "description": "Learning Node.js step by step",
-  "main": "01.index.js,",
+  "main": "01.index.js",
   "type": "module",
   "scripts": {
     "start": "node 01.index.js"
