@@ -6,7 +6,12 @@
   },
   {
     "id": 2,
-    "name": "Virat",
-    "city": "Mumbai"
+    "name": "Virat Kohli",
+    "city": "Bangalore"
+  },
+  {
+    "id": 3,
+    "name": "Rohit",
+    "city": "Delhi"
   }
 ]
