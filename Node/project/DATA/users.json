@@ -13,5 +13,30 @@
     "id": 3,
     "name": "Rohit",
     "city": "Delhi"
+  },
+  {
+    "id": 4,
+    "name": "Rahul",
+    "city": "Hyderabad"
+  },
+  {
+    "id": 5,
+    "name": "Sharma",
+    "city": "Hyderabad"
+  },
+  {
+    "id": 6,
+    "name": "Sharma",
+    "city": "Hyderabad"
+  },
+  {
+    "id": 7,
+    "name": "rohit",
+    "city": "Hyderabad"
+  },
+  {
+    "id": 8,
+    "name": "rohit sharma",
+    "city": "Hyderabad"
   }
 ]

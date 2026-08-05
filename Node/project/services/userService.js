@@ -25,6 +25,7 @@ async function addUser( name, city ) {
 };
   users.push(newUser);  
 await fs.writeFile(jsonPath,JSON.stringify(users,null,2));
+return newUser; 
 }
 
 async function updateUser(id, name, city) {
